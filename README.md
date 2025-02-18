@@ -41,7 +41,7 @@
 | **Frontend** | HTML, CSS, Bootstrap, JavaScript (AJAX) |
 | **Backend** | PHP (Core PHP) |
 | **Database** | MySQL |
-| **Libraries & Tools** | Prism.js (for syntax highlighting), Bootstrap (Purple Admin Template), PDF generation |
+| **Libraries & Tools** | Prism.js (for syntax highlighting), Bootstrap (Purple Admin Template), Tailwind CSS |
 
 ---
 
