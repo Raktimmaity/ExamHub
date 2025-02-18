@@ -98,6 +98,6 @@ We welcome contributions from the open-source community! 🚀
 ## 👨‍💻 Developer Contact
  * 👤 Raktim Maity
  * 📧 Email: reach.ratimmaity.com
- * 🌐 Website: [Website Link] (https://raktimmaity.free.nf)
+ * 🌐 Website: https://raktimmaity.free.nf
  * 🔗 GitHub: [github.com/Raktimmaity](https://github.com/Raktimmaity/)
  * 📌 LinkedIn: https://www.linkedin.com/in/raktim-maity-0a558824a/
